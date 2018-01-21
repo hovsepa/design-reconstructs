@@ -32,30 +32,30 @@ That's all. Don't let the selection below stop you, you can recreate any screen 
 
 ### Categories
 #### Media/Entertainment
-* [Flixter - Home](./images/flixter-movies-home.png)
-* [Meetup - Home](./images/meetup-home-screen.png)
-* [Spotify - Home](./images/spotify-home.png)
-* [Spotify - Album view, playing track](./images/spotify-album-playing-track.png)
+* [Flixter - Home](./images/flixter-movies-home.png) (Mobile)
+* [Meetup - Home](./images/meetup-home-screen.png) (Mobile)
+* [Spotify - Home](./images/spotify-home.png) (Mobile)
+* [Spotify - Album view, playing track](./images/spotify-album-playing-track.png) (Mobile)
 
 #### Health
-* [Apple - Health home](./images/apple-health-home.png)
+* [Apple - Health home](./images/apple-health-home.png) (Mobile)
+
+#### Landing Pages
+* [Evernote - Landing Page](./images/evernote.png) (Desktop)
+* [Mailchimp - Landing Page](./images/mailchimp.png) (Desktop)
+
+#### News
+* [Wired - Landing Page](./images/wired.png) (Desktop)
+
+#### Ecommerce
+* [Target](./images/target.png) (Desktop)
 
 ### Processes
 #### Log In
-* [Mailchimp - Login](./images/mailchimp-login.png)
-* [Mailchimp - Login with required fields](./images/mailchimp-login-required.png)
+* [Mailchimp - Login](./images/mailchimp-login.png) (Mobile)
+* [Mailchimp - Login with required fields](./images/mailchimp-login-required.png) (Mobile)
 
 #### Settings
-* [Apple - General settings](./images/apple-settings-general.png)
-
-#### Landing Pages
-* [Evernote - Landing Page](./images/evernote.png)
-* [Mailchimp - Landing Page](./images/mailchimp.png)
-
-#### News
-* [Wired - Landing Page](./images/wired.png)
-
-#### Ecommerce
-* [Target](./images/target.png))
+* [Apple - General settings](./images/apple-settings-general.png) (Mobile)
 
 ### Stay tuned, more to come!
