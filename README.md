@@ -48,5 +48,14 @@ That's all. Don't let the selection below stop you, you can recreate any screen 
 #### Settings
 * [Apple - General settings](./images/apple-settings-general.png)
 
+#### Landing Pages
+* [Evernote - Landing Page](./images/evernote.png)
+* [Mailchimp - Landing Page](./images/mailchimp.png)
+
+#### News
+* [Wired - Landing Page](./images/wired.png)
+
+#### Ecommerce
+* [Target](./images/target.png))
 
 ### Stay tuned, more to come!
